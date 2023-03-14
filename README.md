@@ -1,1 +1,1 @@
-# Cryptocurrency-tracker
+# Voting contract
