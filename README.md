@@ -23,7 +23,7 @@ The exclusive benefits of CryptoPredictions are:
 
 * At CryptoPredictions, we do not fetch indicators from different websites, because it leads to problems such as null rows and the lack of information on indicators for all cryptocurrencies. Instead, CryptoPredictions calculates them in a way that doesn't carry the mentioned problems and could be generalized to other datasets.
 
-* We hope that it will inspire you to develop even better projects, and we look forward to your feedback. If you find CryptoPredictions useful and valuable, we would greatly appreciate it if you could take a moment to give it a star on Github. Your support would mean a lot to us and help us to continue improving the library for the community :)
+
  
 
 # Overview
